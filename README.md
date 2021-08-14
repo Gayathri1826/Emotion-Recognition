@@ -1,2 +1,2 @@
-# Emotion-Recognition
+# Emotion-Recognition-Mini-Project
 ##MINI PROJECT
